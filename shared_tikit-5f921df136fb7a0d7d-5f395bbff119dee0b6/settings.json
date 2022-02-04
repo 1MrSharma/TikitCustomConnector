@@ -1,0 +1,9 @@
+{
+  "connectorId": "shared_tikit-20test-202-5f921df136fb7a0d7d-5f395bbff119dee0b6",
+  "environment": "20ed09e3-d0cc-4f34-8be5-7d1727151c69",
+  "apiProperties": "C:\\Users\\admin\\Desktop\\TikitCustomConnector\\TikitTry4\\shared_tikit-5f921df136fb7a0d7d-5f395bbff119dee0b6\\apiProperties.json",
+  "apiDefinition": "C:\\Users\\admin\\Desktop\\TikitCustomConnector\\TikitTry4\\shared_tikit-5f921df136fb7a0d7d-5f395bbff119dee0b6\\apiDefinition.swagger.json",
+  "icon": "C:\\Users\\admin\\Desktop\\TikitCustomConnector\\TikitTry4\\shared_tikit-5f921df136fb7a0d7d-5f395bbff119dee0b6\\icon.png",
+  "powerAppsUrl": "https://api.powerapps.com",
+  "powerAppsApiVersion": "2016-11-01"
+}
